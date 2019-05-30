@@ -1,0 +1,11 @@
+//获取商品数据
+export const GETPRODUCTION = 'GETPRODUCTION';
+
+//选择商品
+export const TOGGLEPRODUCTION = 'TOGGLEPRODUCTION'
+
+//编辑商品
+export const EDITPRODUCTION = 'EDITPRODUCTION'
+
+//清空数据
+export const CLEANPRODUCTION = 'CLEANPRODUCTION'
